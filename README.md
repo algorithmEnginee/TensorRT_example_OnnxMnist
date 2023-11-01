@@ -1,0 +1,2 @@
+# TensorRT_example_OnnxMnist
+通过官网给出的示例examples/sampleOnnxMNIST,简化了部分程序，为初学TensorRT部署模型提供参考
